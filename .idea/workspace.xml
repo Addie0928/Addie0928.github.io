@@ -21,7 +21,10 @@
   <component name="ChangeListManager">
     <list default="true" id="81ed264e-dda3-41fb-87a5-7a5f93942650" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-11-10-text-and-typography.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-11-10-text-and-typography.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-11-10-text-and-typography.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-11-10-redesign-car-settings.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/sample/01_redesign/1_cover.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/sample/01_redesign/1_cover.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tabs/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/tabs/about.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,11 +35,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1k3rxTlSCCUd5etDVuHNOuL3svk" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/img/sample/01_redesign" />
@@ -60,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604940365053</updated>
-      <workItem from="1604940367508" duration="2744000" />
+      <workItem from="1604940367508" duration="4700000" />
     </task>
     <servers />
   </component>
@@ -78,11 +85,15 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="184" y="69" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604941254421">
-      <screen x="0" y="0" width="1440" height="815" />
+    <state x="184" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604964971802">
+      <screen x="0" y="0" width="1440" height="821" />
     </state>
     <state x="184" y="69" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.815@0.0.1440.815" timestamp="1604941254421" />
+    <state x="184" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.821@0.0.1440.821" timestamp="1604964971802" />
     <state x="458" y="161" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604941765821">
       <screen x="0" y="0" width="1440" height="815" />
     </state>
