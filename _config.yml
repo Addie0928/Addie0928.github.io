@@ -8,9 +8,9 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Addie's design life                          # the main title
+title: Addie's blog                          # the main title
 
-tagline: A text-focused Jekyll theme.  # it will display as the sub-title
+tagline: UX portfolio.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
  I am an car hmi desinger.
