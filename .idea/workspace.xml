@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81ed264e-dda3-41fb-87a5-7a5f93942650" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/img/sample/01_redesign/1_cover.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/sample/addie_avartar.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/sample/addie_avartar.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-11-10-text-and-typography.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-11-10-text-and-typography.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,11 +40,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/img/sample" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/img/sample/01_redesign" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img/sample/01_redesign" />
+      <recent name="$PROJECT_DIR$/assets/img/sample/Redesign car settings" />
       <recent name="$PROJECT_DIR$/assets/img/sample" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -58,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604940365053</updated>
-      <workItem from="1604940367508" duration="1395000" />
+      <workItem from="1604940367508" duration="1911000" />
     </task>
     <servers />
   </component>
