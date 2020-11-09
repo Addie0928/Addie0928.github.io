@@ -11,6 +11,7 @@ image: /assets/img/sample/01_redesign/1_cover.png
 This project is an information architecture redesign. We used tree testing
 to evaluate A and B framework. Initial version framework called A, the updated
 version called B.
+
 这个项目是信息框架重设计。我们采取树状测试方案A和方案B，将初始方案叫做A,把更新方案叫做B.
 [**Tree testing**](https://www.nngroup.com/videos/tree-testing/).
 
