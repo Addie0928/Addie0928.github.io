@@ -15,14 +15,14 @@ SEOTitle: Addie的博客 | Addie's Blog
 tagline: UX portfolio.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
- I am an car hmi designer, these is my design life.
+ I am an car hmi designer, this is my design life.
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'protocol://domain'
 
 author: Addie Zhang                  # change to your full name
 
-avatar: /assets/img/sample/addie_avartar.JPG   # support internet resources
+avatar: /assets/img/sample/addie_avartar.jpg   # support internet resources
 
 github:
   username: Addie0928             # change to your github username
@@ -35,7 +35,7 @@ social:
   email: 634004167@qq.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
+    # https://twitter.com/username      # change to your twitter homepage
     - https://github.com/Addie0928       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username

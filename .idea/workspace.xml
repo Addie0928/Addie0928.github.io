@@ -20,6 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81ed264e-dda3-41fb-87a5-7a5f93942650" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/img/sample/01_redesign/2_background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/sample/01_redesign/3_competitive_analysis.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2020-11-10-redesign-car-settings.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-11-10-redesign-car-settings.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604940365053</updated>
       <workItem from="1604940367508" duration="7404000" />
-      <workItem from="1605008137670" duration="830000" />
+      <workItem from="1605008137670" duration="2796000" />
     </task>
     <servers />
   </component>
