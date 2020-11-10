@@ -20,8 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81ed264e-dda3-41fb-87a5-7a5f93942650" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/img/sample/addie_avartar.JPG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-11-10-redesign-car-settings.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-11-10-redesign-car-settings.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/sample/addie_avartar.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,17 +45,17 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/img/sample/01_redesign" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/img/sample" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets/img/sample/01_redesign" />
-      <recent name="$PROJECT_DIR$/assets/img/sample/Redesign car settings" />
-      <recent name="$PROJECT_DIR$/assets/img/sample" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets/img/sample" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img/sample" />
+      <recent name="$PROJECT_DIR$/assets/img/sample/01_redesign" />
+      <recent name="$PROJECT_DIR$/assets/img/sample/Redesign car settings" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -64,7 +66,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604940365053</updated>
-      <workItem from="1604940367508" duration="7120000" />
+      <workItem from="1604940367508" duration="7404000" />
+      <workItem from="1605008137670" duration="30000" />
     </task>
     <servers />
   </component>
@@ -81,6 +84,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
