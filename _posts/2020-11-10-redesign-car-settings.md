@@ -31,7 +31,6 @@ up with:
 将初始方案在真车上测试后，我们发现，用户无法找到一些具体功能，不能很快地完成任务，
 且出错率较高。因此，信息框架需要进一步优化。一些需要解决的问题如下：
 
----
-math: true
+
 image: /assets/img/sample/01_redesign/2_background.svg
----
+![background](/assets/img/sample/01_redesign/2_background.svg ''background'')
