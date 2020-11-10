@@ -18,7 +18,7 @@ the updated version called B.
 
 ---
    
-   #Background
+   # Background
    
    After testing the initial car setting interface in the real car,
    we found that user cannot find some specific functions, and complete 
@@ -30,9 +30,9 @@ the updated version called B.
    
    ![background](/assets/img/sample/01_redesign/2_background.png ''background'')
 
+---
 
-
-   #Competitive analysis
+   # Competitive analysis
    
    In order to get a better optimization proposal, we did the competitive 
    product analysis to understand the current market car and their HMI system.
