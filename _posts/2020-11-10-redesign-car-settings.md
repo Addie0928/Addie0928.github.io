@@ -5,7 +5,7 @@ date: 2020-11-10 11:33:00 +0800
 categories: [Blogging, Demo]
 tags: [typography]
 math: true
-image: /assets/img/sample/01_redesign/1_cover.svg
+image: /assets/img/sample/01_redesign/1_cover.png
 ---
 
 This project is an information architecture redesign. We used tree testing
