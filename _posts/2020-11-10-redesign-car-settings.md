@@ -6,12 +6,13 @@ categories: [Blogging, Demo]
 tags: [typography]
 math: true
 ---
+![Redesign](/assets/img/sample/01_redesign/0_redesign.png)
 ## Background
 
 This is information architecture redesign.Car setting is the important parts of CSD. These setting items are related to the software, interior or exterior, include power doors, windows or seats, driving assistance (ADAS) or automatic parking.
 
 此项目是信息框架重设计。车辆设置是CSD系统的重要部分，这些设置项与软件、车的外观内饰相关。包括：电动门、车窗、座椅，驾驶辅助(ADAS)、自动泊车等。
-![Redesign](/assets/img/sample/01_redesign/0_redesign.png)
+
 
 ## Issues
 
