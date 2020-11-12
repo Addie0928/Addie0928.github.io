@@ -11,9 +11,10 @@ math: true
 This is information architecture redesign.Car setting is the important parts of CSD. These setting items are related to the software, interior or exterior, include power doors, windows or seats, driving assistance (ADAS) or automatic parking.
 
 此项目是信息框架重设计。车辆设置是CSD系统的重要部分，这些设置项与软件、车的外观内饰相关。包括：电动门、车窗、座椅，驾驶辅助(ADAS)、自动泊车等。
+![Redesign](/assets/img/sample/01_redesign/0_redesign.png)
 
+## Issues
 
-# Issues
 When testing the initial setting in the real car, we found that users cannot find some specific functions, and complete the tasks with high error rates. Here are some issues we need to follow up:
 
 我们将初始方案在真车上测试，发现用户找不到一些具体的功能，且完成任务时出错率较高. 需解决以下问题：
@@ -49,7 +50,8 @@ When testing the initial setting in the real car, we found that users cannot fin
 
 
 
-# Research
+## Research
+
 In order to know the market, we did the real car research to understand the current car HMI system. We learned about some design strategies:
    
 为了更好了解市场，我们做了真车调研。以下是我们了解到的一些设置项设计策略：
@@ -70,7 +72,8 @@ In order to know the market, we did the real car research to understand the curr
  ![research](/assets/img/sample/01_redesign/2_research.png)
 
 
-# Iteration proposal
+## Iteration proposal
+
 We did the card sortingonline.And did the A/B testing for Initial verion and updated version.
 我们做了线上卡片分析, 并且进行A/B测试。 
 
@@ -86,6 +89,7 @@ Specific interface：
 
 ---
 
-See report details in [A/B testing](https://www.xxx.com).
 
----
+## See more
+
+See report details in [A/B testing](https://www.xxx.com).
