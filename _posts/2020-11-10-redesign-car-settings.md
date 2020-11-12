@@ -18,6 +18,8 @@ When testing the initial setting in the real car, we found that users cannot fin
 
 我们将初始方案在真车上测试，发现用户找不到一些具体的功能，且完成任务时出错率较高. 需解决以下问题：
 
+---
+
 #### 1. Main menus 
    - **Reasonable number.** How many menu items are needed to cover all functions？
    - **Hierarchy.** How to arrange them?  
@@ -26,12 +28,11 @@ When testing the initial setting in the real car, we found that users cannot fin
    - 合理的数量。需要几个菜单项能覆盖所有功能？ 
    - 优先级。主菜单各项如何排序？
    - 分类。在每个主菜单下，有哪些次级菜单？
-   
-   
+
 #### 2. Sub menus 次级菜单
 
-   - **Classification** Which functions should be in sub menu?
-   - **Efficiency.** How to switch each sub-menu and each main menu quickly.
+   - **Classification.**  Which functions should be in sub menu?
+   - **Efficiency.**  How to switch each sub-menu and each main menu quickly.
    
    - 分类。在每个次级菜单下有哪些功能？
    - 效率。每个次级菜单、每个主菜单如何快速切换。
@@ -71,21 +72,21 @@ In order to know the market, we did the real car research to understand the curr
 
 # Iteration proposal
 We did the card sortingonline.And did the A/B testing for Initial verion and updated version.
-我们做了线上卡片分析, 并且进行A/B测试。
+我们做了线上卡片分析, 并且进行A/B测试。 
 
  ![card ](/assets/img/sample/01_redesign/3_card_sort.png)
  
  ![ab test ](/assets/img/sample/01_redesign/4_ab_test.png)
 
-Specific interface 
+Specific interface：
 
 
  ![ab test ](/assets/img/sample/01_redesign/5_all_pages.png)
 
 
+---
 
 
-
-
+[^footnote]: See report details in [A/B testing](https://www.xxx.com).
 
 ---
