@@ -86,7 +86,6 @@ Specific interface：
 
 ---
 
-
-[^footnote]: See report details in [A/B testing](https://www.xxx.com).
+See report details in [A/B testing](https://www.xxx.com).
 
 ---
