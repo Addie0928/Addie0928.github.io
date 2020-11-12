@@ -20,8 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81ed264e-dda3-41fb-87a5-7a5f93942650" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/img/sample/01_redesign/1_initial interface.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/sample/01_redesign/2_research.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/sample/01_redesign/3_card_sort.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/sample/01_redesign/4_ab_test.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/sample/01_redesign/5_all_pages.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2020-11-10-redesign-car-settings.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-11-10-redesign-car-settings.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/sample/01_redesign/1_cover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/sample/01_redesign/2_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/sample/01_redesign/3_competitive_analysis.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,13 +55,13 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets/img/sample" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets/img/sample/01_redesign" />
       <recent name="$PROJECT_DIR$/assets/img/sample" />
       <recent name="$PROJECT_DIR$/assets/img/sample/Redesign car settings" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img/sample" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -65,7 +73,9 @@
       <option name="presentableId" value="Default" />
       <updated>1604940365053</updated>
       <workItem from="1604940367508" duration="7404000" />
-      <workItem from="1605008137670" duration="4464000" />
+      <workItem from="1605008137670" duration="4667000" />
+      <workItem from="1605136342160" duration="412000" />
+      <workItem from="1605189558211" duration="399000" />
     </task>
     <servers />
   </component>
