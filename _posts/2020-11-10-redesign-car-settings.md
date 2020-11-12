@@ -41,7 +41,7 @@ When testing the initial setting in the real car, we found that users cannot fin
   错误恢复。如何使用户在犯错时感到舒适，且总是能恢复正确。
 
 
-![Initial interface](/assets/img/sample/01_redesign_1_initial interface.png)
+![Initial interface](/assets/img/sample/01_redesign/1_initial interface.png)
 
 
 
@@ -68,7 +68,7 @@ In order to know the market, we did the real car research to understand the curr
 -  `User Academy. ` Guide and inspire user to learn the car, give user award to explore and discover.
 用户学院。引导和启发用户了解车辆，在他们探索发现的过程中给予奖励。
 
- ![research](/assets/img/sample/01_redesign_2_research.png)
+ ![research](/assets/img/sample/01_redesign/2_research.png)
 
 
 # Iteration proposal
@@ -76,12 +76,12 @@ We did the card sortingonline.And did the A/B testing for Initial verion and upd
 
 我们做了线上的卡片分析, 并且做了初始方案和更新方案的A/B测试。
 
- ![card ](/assets/img/sample/01_redesign_3_card_sort.png)
- ![ab test ](/assets/img/sample/01_redesign_4_ab_test.png)
+ ![card ](/assets/img/sample/01_redesign/3_card_sort.png)
+ ![ab test ](/assets/img/sample/01_redesign/4_ab_test.png)
 
 Specific interface具体页面
 
- ![ab test ](/assets/img/sample/01_redesign_5_all_pages.png)
+ ![ab test ](/assets/img/sample/01_redesign/5_all_pages.png)
 
 
 
