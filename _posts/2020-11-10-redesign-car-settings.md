@@ -38,7 +38,7 @@ When testing the initial setting in the real car, we found that users cannot fin
    - 效率。每个次级菜单、每个主菜单如何快速切换。
 
 #### 3.Specific functions 具体功能
-- **Findable and understandable. ** Try not to operate more than 3 times.
+- **Findable and understandable.** Try not to operate more than 3 times.
  Try not to operate more than 3 times.
 - **Error recovery.** How to let users feels comfortable about making mistakes and always being able to recover.
 
