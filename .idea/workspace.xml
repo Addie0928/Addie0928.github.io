@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81ed264e-dda3-41fb-87a5-7a5f93942650" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/img/sample/01_redesign/0_redesign.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2020-11-10-redesign-car-settings.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-11-10-redesign-car-settings.md" afterDir="false" />
     </list>
@@ -70,7 +69,7 @@
       <workItem from="1605008137670" duration="4667000" />
       <workItem from="1605136342160" duration="412000" />
       <workItem from="1605189558211" duration="543000" />
-      <workItem from="1605190763989" duration="2571000" />
+      <workItem from="1605190763989" duration="2670000" />
     </task>
     <servers />
   </component>
@@ -102,5 +101,9 @@
       <screen x="0" y="0" width="1440" height="815" />
     </state>
     <state x="458" y="161" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.815@0.0.1440.815" timestamp="1604941765821" />
+    <state x="385" y="196" key="search.everywhere.popup" timestamp="1605196063469">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1605196063469" />
   </component>
 </project>
