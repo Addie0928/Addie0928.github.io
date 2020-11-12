@@ -7,12 +7,16 @@ tags: [typography]
 math: true
 ---
 ![Redesign](/assets/img/sample/01_redesign/0_redesign.png)
+
+---
+
 ## Background
 
 This is information architecture redesign.Car setting is the important parts of CSD. These setting items are related to the software, interior or exterior, include power doors, windows or seats, driving assistance (ADAS) or automatic parking.
 
 此项目是信息框架重设计。车辆设置是CSD系统的重要部分，这些设置项与软件、车的外观内饰相关。包括：电动门、车窗、座椅，驾驶辅助(ADAS)、自动泊车等。
 
+---
 
 ## Issues
 
@@ -20,7 +24,6 @@ When testing the initial setting in the real car, we found that users cannot fin
 
 我们将初始方案在真车上测试，发现用户找不到一些具体的功能，且完成任务时出错率较高. 需解决以下问题：
 
----
 
 #### 1. Main menus 
    - **Reasonable number.** How many menu items are needed to cover all functions？
@@ -49,6 +52,7 @@ When testing the initial setting in the real car, we found that users cannot fin
 ![Initial interface](/assets/img/sample/01_redesign/1_initial interface.png)
 
 
+---
 
 ## Research
 
@@ -71,6 +75,7 @@ In order to know the market, we did the real car research to understand the curr
 
  ![research](/assets/img/sample/01_redesign/2_research.png)
 
+---
 
 ## Iteration proposal
 
@@ -84,7 +89,7 @@ We did the card sortingonline.And did the A/B testing for Initial verion and upd
 Specific interface：
 
 
- ![ab test ](/assets/img/sample/01_redesign/5_all_pages.png)
+![ab test ](/assets/img/sample/01_redesign/5_all_pages.png)
 
 
 ---
