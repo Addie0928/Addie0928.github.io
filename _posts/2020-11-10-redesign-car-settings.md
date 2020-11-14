@@ -98,4 +98,4 @@ math: true
 对于初始方案和迭代方案，组织了A/B测试。
 查看AB测试报告 [A/B testing](https://www.xxx.com).
 
-![ab test ](/assets/img/sample/01_redesign/5_all_pages.png)
+![ab test ](/assets/img/sample/01_redesign/4_ab_test.png)
