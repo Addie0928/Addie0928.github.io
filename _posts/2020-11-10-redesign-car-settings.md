@@ -3,7 +3,7 @@ title: Redesign car settings
 author: Addie Zhang
 date: 2020-11-10 11:33:00 +0800
 categories: [Blogging, Demo]
-tags: [typography]
+tags: [framework]
 math: true
 ---
 ![Redesign](/assets/img/sample/01_redesign/0_redesign.png)
@@ -96,6 +96,5 @@ math: true
 
 ## AB测试
 对于初始方案和迭代方案，组织了A/B测试。
-查看AB测试报告 [A/B testing](https://addie0928.github.io/posts/ab-test/).
 
 ![ab test ](/assets/img/sample/01_redesign/4_ab_test.png)
