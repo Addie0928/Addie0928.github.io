@@ -10,91 +10,92 @@ math: true
 
 ---
 
-## Background
+## 背景
 
-This is information architecture redesign.Car setting is the important parts of CSD. These setting items are related to the software, interior or exterior, include power doors, windows or seats, driving assistance (ADAS) or automatic parking.
-
-此项目是信息框架重设计。车辆设置是CSD系统的重要部分，这些设置项与软件、车的外观内饰相关。包括：电动门、车窗、座椅，驾驶辅助(ADAS)、自动泊车等。
+这是信息框架迭代设计。车辆设置项是汽车中控屏的重要部分，这些设置项与软件、车的外观内饰相关。包括：车门、车窗、座椅，驾驶辅助(ADAS)、自动泊车等。不仅功能数量众多，而且逻辑复杂。想要达到量产标准，必须在符合技术评估要求的同时，更要充分满足用户需求，提升整体体验。
 
 ---
 
-## Issues
+## 发现问题
 
-When testing the initial setting in the real car, we found that users cannot find some specific functions, and complete the tasks with high error rates. Here are some issues we need to follow up:
+在实车上进行可用性测试，发现用户：
+- 某些功能根本找不到，无法完成任务
+- 可以完成任务，但出错次数较多，耗时较长。
+- 部分功能步骤较多，操作不够快捷。
+- ...
 
-我们将初始方案在真车上测试，发现用户找不到一些具体的功能，且完成任务时出错率较高. 需解决以下问题：
 
+---
+
+## 思考
 
 #### 1. Main menus 
-   - **Reasonable number.** How many menu items are needed to cover all functions？
-   - **Hierarchy.** How to arrange them?  
-   - **Classification.** Which sub-menus should be in each main menu?
-      
-   - 合理的数量。需要几个菜单项能覆盖所有功能？ 
-   - 优先级。主菜单各项如何排序？
-   - 分类。在每个主菜单下，有哪些次级菜单？
+ - 合理的数量。需要几个主菜单能覆盖所有功能？ 
+ - 优先级。主菜单如何排序？
+ - 分类。每个主菜单下，有哪些次级菜单？
 
-#### 2. Sub menus 次级菜单
+#### 2. Sub menus
 
-   - **Classification.**  Which functions should be in sub menu?
-   - **Efficiency.**  How to switch each sub-menu and each main menu quickly.
-   
    - 分类。在每个次级菜单下有哪些功能？
-   - 效率。每个次级菜单、每个主菜单如何快速切换。
+   - 效率。次级菜单、主菜单直接如何快速切换，是否有联动关系？
 
-#### 3.Specific functions 具体功能
-- **Findable and understandable.** Try not to operate more than 3 times.
-- **Error recovery.** How to let users feels comfortable about making mistakes and always being able to recover.
-
-- 可找到、可理解。操作步骤尽量不大于3次。
+#### 3.Specific functions 
+- 如何做到可寻找、可理解，操作步骤尽量不大于3次？
 - 错误恢复。如何使用户在犯错时感到舒适，且总是能恢复正确。
 
-![Initial interface](/assets/img/sample/01_redesign/1_initial interface.png)
-
+![Initial interface](/assets/img/sample/01_redesign/1_initial_interface.png)
 
 ---
 
-## Research
 
-In order to know the market, we did the real car research to understand the current car HMI system. We learned about some design strategies:
-   
-为了更好了解市场，我们做了真车调研。以下是我们了解到的一些设置项设计策略：
+## 更多
 
--  **Default value.** For functions that always in one state, sets default values for users. Even remove it.
--  **Little i.** Some details don't need to be explained, remove them or hide them in icon“i” if really need to.
-- **Mode.** For functions that are highly correlated and interacted, or have same operation logic, they can be grouped into one mode.
-- **3D model.** Car interior, exterior and ambient light related settings, use nice graphics, 3D model or animation. 
-- **Customization.** Using ID memory, one single car allows multiple user IDs.
--  **User Academy.** Guide and inspire user to learn the car, give user award to explore and discover.
+需要进一步思考：
+- 用户使用车辆设置，通常是在停车状态？
+- 在真实行车过程中，有哪些功能是用户最常用到的？
+- 如何确保行车过程中，最常用的功能操作快捷？
+- 如果用户没有具体的目标，需要给用户怎样的引导？
 
-- 默认。对于总以一个状态出现的功能，为用户设置默认值。甚至删除该设置。
-- 对于一些功能细节，不需要向用户解释的可以删掉。如果实在是需要，那就隐藏在小“i”图标里。
-- 车内饰、外饰和氛围灯相关的功能，使用炫丽的图形，3D模型或者动画展示。
-- 自定义。用ID来记忆设置，一个车辆可以有多个ID.
-- 用户学院。引导和启发用户了解车辆，在他们探索发现的过程中给予奖励。
+---
+
+
+## 调研
+
+为了更好了解市场，我们在对实车调研了HMI界面。以下是一些设计策略：
+
+- **默认**。 对于总以一个状态出现的功能，为用户设置默认值。甚至删除该设置。
+- **小i** 。对于一些功能细节，不需要向用户解释的可以删掉。如果实在是需要，那就隐藏在小“i”图标里。
+- **3D视觉**。 车内饰、外饰和氛围灯相关的功能，使用炫丽的图形，3D模型或者动画展示。
+- **自定义**。用ID来记忆设置，一个车辆可以有多个ID.
+- **用户学院**。引导和启发用户了解车辆，在他们探索发现的过程中给予奖励。
 
  ![research](/assets/img/sample/01_redesign/2_research.png)
 
 ---
 
-## Iteration proposal
 
-We did the card sortingonline.And did the A/B testing for Initial verion and updated version.
-我们做了线上卡片分析, 并且进行A/B测试。 
-
- ![card ](/assets/img/sample/01_redesign/3_card_sort.png)
+## 优化方向
  
- ![ab test ](/assets/img/sample/01_redesign/4_ab_test.png)
+1. **场景化**。外饰、内饰相关功能，都在模型上直接操作。通过视觉元素和动画，充分引导用户操作，无需多余的文字类的功能说明。
 
-Specific interface：
+2. **逻辑类似**。用户不常用的设置，设置出厂默认值。隐藏于一个按钮中，在弹窗里调节。
 
+3. **多指交互**。确保单指完成基本任务，融入手势、多指快捷操作。
 
-![ab test ](/assets/img/sample/01_redesign/5_all_pages.png)
+4. **最高频使用的功能**，融入快捷面板集中操作。
 
+---
+
+## 具体界面
+以下是具体的界面。
+
+![all pages ](/assets/img/sample/01_redesign/5_all_pages.png)
 
 ---
 
 
-## See more
+## AB测试
+对于初始方案和迭代方案，组织了A/B测试。
+查看AB测试报告 [A/B testing](https://www.xxx.com).
 
-See report details in [A/B testing](https://www.xxx.com).
+![ab test ](/assets/img/sample/01_redesign/5_all_pages.png)
