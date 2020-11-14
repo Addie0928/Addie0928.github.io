@@ -95,6 +95,6 @@ math: true
 
 
 ## AB测试
-对于初始方案和迭代方案，组织了A/B测试。
+对于初始方案和迭代方案，组织了A/B测试。[See A/B test]({% post_url 2020-11-14-ab-test %})
 
 ![ab test ](/assets/img/sample/01_redesign/4_ab_test.png)

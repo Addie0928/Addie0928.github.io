@@ -20,11 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81ed264e-dda3-41fb-87a5-7a5f93942650" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/docs/Setting_ab_testing.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-11-14-ab-test.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-11-14-ab-test.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/README_zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/assets/docs/README_zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-11-10-redesign-car-settings.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-11-10-redesign-car-settings.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-11-14-dim.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-11-14-dim.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tabs/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/tabs/about.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +76,7 @@
       <workItem from="1605189558211" duration="543000" />
       <workItem from="1605190763989" duration="3571000" />
       <workItem from="1605330618838" duration="2271000" />
-      <workItem from="1605373101631" duration="1690000" />
+      <workItem from="1605373101631" duration="2258000" />
     </task>
     <servers />
   </component>
