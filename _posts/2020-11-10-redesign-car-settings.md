@@ -96,6 +96,6 @@ math: true
 
 ## AB测试
 对于初始方案和迭代方案，组织了A/B测试。
-查看AB测试报告 [A/B testing](https://www.xxx.com).
+查看AB测试报告 [A/B testing](https://addie0928.github.io/posts/ab-test/).
 
 ![ab test ](/assets/img/sample/01_redesign/4_ab_test.png)
