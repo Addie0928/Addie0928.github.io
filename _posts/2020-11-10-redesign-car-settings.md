@@ -5,12 +5,6 @@ date: 2020-11-10 11:33:00 +0800
 categories: [Blogging, Demo]
 tags: [framework]
 math: true
-
----
-layout: post
-title: A Trip
-categories: [blog, travel]
-tags: [hot, summer]
 ---
 ---
 ![Redesign](/assets/img/sample/01_redesign/0_redesign.png)

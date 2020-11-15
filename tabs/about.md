@@ -22,6 +22,6 @@ to
 **平衡创意与限制，将灵感变为现实**。
 
 > **Email**: 634004167@qq.com  
-> **Phone**: +85 15968164550
+> **Phone**: +86 15968164550
 
 Download [Addie的简历](/assets/docs/Addie's CV.pdf) here.
