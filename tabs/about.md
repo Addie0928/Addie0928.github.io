@@ -1,5 +1,5 @@
 ---
-title: My CV
+title: Addie's CV
 
 # The About page
 # v2.0
