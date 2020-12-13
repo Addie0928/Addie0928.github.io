@@ -9,8 +9,6 @@ math: true
 ---
 ![Usability](/assets/img/sample/06_usability/1_overview.png)
 
----
-
 ## Purpose：
 Evaluate participants experience with main interaction in our HMI (DIM, HUD, CSD) to find opinions and usability problems with the main interactions in our HMI. Usability of the framework.
 
@@ -21,48 +19,48 @@ Evaluate participants experience with main interaction in our HMI (DIM, HUD, CSD
 ## Parameters of Usability：
 
 ![Usability](/assets/img/sample/06_usability/2_usability.png)
-#### **Affordance** 可供性，功能可见性
+#### Affordance 可供性，功能可见性
 
 - How many tries the participants need to do to complete a task or if help from test leader is needed, if so, how many times? 参与者完成任务需要尝试几次？如果是需要主持人帮助，帮助了几次？
 
-#### **Learnability** 易学性
+#### Learnability 易学性
 - If do a similar task (media vs. phone call), if participant can find the way easily. 如果是做类似任务，参与者是否能很快找到？
 - If they understands the model easily after done it once. 能否做完一次就很容易地理解整个框架？
-- If they get the overall image about the how the system works. 能否理解整体系统是如何运作的？zj
+- If they get the overall image about the how the system works. 能否理解整体系统是如何运作的？
 
-#### **Efficiency** 效率
+#### Efficiency 效率
 - If participant think it takes too many steps or too much effort to accomplish a task, especially during driving. 参与者是否感到在完成任务时用了太多步骤，或是耗费太多努力？特别是在驾驶过程中。
 
 
-#### **Error recovery** 错误恢复
+#### Error recovery 错误恢复
 - If participant find way back if he/she make a mistake,if he/she feels comfortable about making mistakes and always being able to recover. 参与者在犯错时是否可以找到恢复方法，在他犯错时是否感到舒适，是否每次犯错后都可以找到恢复方法。
 
 
-#### **Subjective satisfaction** 主观满意度
+#### Subjective satisfaction 主观满意度
 - In general how participant feel about the system, preference, suggestions, etc. 参与者对系统的整体感受、偏好、建议等 。
 
 ---
 
 ## Components that we want to test:
-#### **Overall logic** 整体逻辑
+#### Overall logic 整体逻辑
 - Function division and relation (mental model, so where to find what in the whole system). 功能划分和关系(心智模型，整个系统中，从什么地方找什么功能) 
 
-#### **CSD framework** 中控框架
+#### CSD framework 中控框架
 - Where to find what, navigate on CSD or main interaction。从什么地方找什么功能，怎么找到导航，和其他主交互。
 - Open/close smart area, climate pane, setting pane, etc. 如果打开/关闭智能区域、空调面板，设置面板。
 
-#### **HUD framework** 抬头显示框架
+#### HUD framework 抬头显示框架
 - Where to find what 从什么地方找什么功能
 
-#### **User input** 用户输入
+#### User input 用户输入
 - steering wheel switch interaction with HUD 方向盘操控抬头显示
 
-#### **DIM framework** 仪表框架
+#### DIM framework 仪表框架
 - what can be seen on DIM 在仪表上能看到什么
 
 ---
 ## Main questions:
-**1. If the user know where to look for information.
+1. If the user know where to look for information.
 2. If information becomes redundant ?
 3. What does it mean by ‘division of the same function’? Is it different from ‘separation of information’?**
 - How do the participants experience the separation of information in and between the screens (DIM/HUD/CSD)? 参与者对于屏幕间（中控/抬头显示/仪表）的分立的信息感受如何？
@@ -278,7 +276,7 @@ First help the participant to recall the tasks he/she did.
  
 **Question:**
 - Overall, how difficult / easy is it to use the system at first time? Why?
--Overall, how difficult / easy to find the function in the system? Why?
+- Overall, how difficult / easy to find the function in the system? Why?
 - Overall, when you recall the tasks you did, do you feel that you get enough support/information/guidance in the system to enable you complete what you want to do?
 - Overall, how efficient is it to use the system to complete a task that you want to do?
 - Overall, how comfortable do you feel about making a mistake and being able to get back / recover? 
