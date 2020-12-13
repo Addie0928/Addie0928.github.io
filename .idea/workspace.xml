@@ -20,13 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81ed264e-dda3-41fb-87a5-7a5f93942650" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2020-12-13-usability-test.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/docs/user_test_report.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/sample/06_usability/1_overview.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/sample/06_usability/2_usability.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-11-15-hand.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-11-15-hand.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-11-15-hud.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-11-15-hud.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-12-13-usability-test.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-12-13-usability-test.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +81,7 @@
       <workItem from="1605440186756" duration="611000" />
       <workItem from="1607828785386" duration="41000" />
       <workItem from="1607828874345" duration="17000" />
-      <workItem from="1607828969406" duration="682000" />
+      <workItem from="1607828969406" duration="932000" />
     </task>
     <servers />
   </component>
